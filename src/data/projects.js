@@ -30,7 +30,7 @@ export const projects = [
     description:
       "Personal finance dashboard for income, expenses, charts and financial statistics.",
     technologies: ["HTML", "CSS", "Chart.js"],
-    demo: "#",
+    demo: "https://muhammadnabi-88.github.io/Finora-Finance-Tracker/",
     github
   },
   {
