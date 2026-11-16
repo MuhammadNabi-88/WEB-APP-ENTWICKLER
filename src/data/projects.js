@@ -35,6 +35,16 @@ export const projects = [
   },
   {
     id: 4,
+    title: "Worksnetz - Job Board",
+    category: "Java",
+    description:
+      "Job and freelance network with registration, job search and applications. Built with Spring Boot, Spring Security, Thymeleaf and JPA.",
+    technologies: ["Spring Boot", "Security", "JPA", "Thymeleaf"],
+    demo: "https://worksnetz.onrender.com/",
+    github
+  },
+  {
+    id: 5,
     title: "Portfolio Website",
     category: "JavaScript",
     description:
@@ -44,7 +54,7 @@ export const projects = [
     github
   },
   {
-    id: 5,
+    id: 6,
     title: "Shop System - PHP & MySQL",
     category: "PHP",
     description:
@@ -54,7 +64,7 @@ export const projects = [
     github
   },
   {
-    id: 6,
+    id: 7,
     title: "Data Analyzer - Python",
     category: "Python",
     description:
@@ -64,7 +74,7 @@ export const projects = [
     github
   },
   {
-    id: 7,
+    id: 8,
     title: "Expense Manager - Java",
     category: "Java",
     description:
@@ -74,7 +84,7 @@ export const projects = [
     github
   },
   {
-    id: 8,
+    id: 9,
     title: "LastPass API Project",
     category: "Python",
     description:
