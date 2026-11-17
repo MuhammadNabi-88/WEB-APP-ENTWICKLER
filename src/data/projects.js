@@ -60,7 +60,7 @@ export const projects = [
     description:
       "E-commerce system with product management, shopping cart, user login and admin panel.",
     technologies: ["PHP", "MySQL", "JavaScript"],
-    demo: "#",
+    demo: "https://maison-co-shop.freehosting.dev/",
     github
   },
   {
