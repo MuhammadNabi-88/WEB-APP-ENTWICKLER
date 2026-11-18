@@ -2,7 +2,7 @@
 const skills = [
   ["Frontend", "React, JavaScript, TypeScript, HTML5, CSS3"],
   ["Styling", "Tailwind CSS, Responsive Design"],
-  ["Backend", "PHP, Java, Spring Boot, Python"],
+  ["Backend", "Java, Spring Boot, Python, PHP"],
   ["Database", "MySQL"],
   ["APIs", "REST APIs, API Integration"],
   ["Tools", "Git, GitHub, Docker"]

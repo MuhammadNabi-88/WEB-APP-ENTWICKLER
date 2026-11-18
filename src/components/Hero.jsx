@@ -80,8 +80,8 @@ function Hero() {
         <span className="status-dot"></span>
         <strong>Professional Profile</strong>
         <p>
-          Metzingen, Germany<br />
-          Web Developer · Frontend Developer<br />
+          Full Stack Developer<br />
+          Web-APP Developer<br />
           Open to suitable IT opportunities
         </p>
       </div>
