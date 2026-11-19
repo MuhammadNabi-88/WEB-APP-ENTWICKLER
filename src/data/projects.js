@@ -14,7 +14,17 @@ export const projects = [
     github
   },
   {
-    id: 2,
+    id: 1,
+    title: "WeatherPro - React Weather App",
+    category: "JavaScript",
+    description: 
+    "Modern weather dashboard with city search, live conditions, hourly chart and 7-day forecast, powered by the Open-Meteo API.",
+    technologies: ["React", "Vite", "Open-Meteo API", "CSS3"],
+    demo: "https://weatherpro-react-rho.vercel.app/",
+    github
+  },
+  {
+    id: 3,
     title: "Business Website - Metzingen",
     category: "JavaScript",
     description:
@@ -24,7 +34,7 @@ export const projects = [
     github
   },
   {
-    id: 3,
+    id: 4,
     title: "Finance Tracker Dashboard",
     category: "JavaScript",
     description:
@@ -34,7 +44,7 @@ export const projects = [
     github
   },
   {
-    id: 4,
+    id: 5,
     title: "Worksnetz - Job Board",
     category: "Java",
     description:
@@ -44,7 +54,7 @@ export const projects = [
     github
   },
   {
-    id: 5,
+    id: 6,
     title: "Portfolio Website",
     category: "JavaScript",
     description:
@@ -54,7 +64,7 @@ export const projects = [
     github
   },
   {
-    id: 6,
+    id: 7,
     title: "Shop System - PHP & MySQL",
     category: "PHP",
     description:
@@ -64,7 +74,7 @@ export const projects = [
     github
   },
   {
-    id: 7,
+    id: 8,
     title: "Data Analyzer - Python",
     category: "Python",
     description:
@@ -74,7 +84,7 @@ export const projects = [
     github
   },
   {
-    id: 8,
+    id: 9,
     title: "Expense Manager - Java",
     category: "Java",
     description:
@@ -84,7 +94,7 @@ export const projects = [
     github
   },
   {
-    id: 9,
+    id: 10,
     title: "LastPass API Project",
     category: "Python",
     description:
